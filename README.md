@@ -31,6 +31,4 @@ The directory structure of the whole code is described in the following screensh
 
 The output of the running code is in the following section. It is showing a running application.
 
-![](/readme/screenshot_1.png)
-![](/readme/screenshot_2.png)
-![](/readme/screenshot_3.png)
+![](/readme/screenshot_1.png) | ![](/readme/screenshot_2.png) | ![](/readme/screenshot_3.png)
